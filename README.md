@@ -91,4 +91,3 @@
 - NLP
 - IA generativa
 - Similaridade semântica
-
