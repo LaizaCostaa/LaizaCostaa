@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Laíza 👋
 
-🔭 Cientista de Dados trabalhando com Machine Learning e IA aplicada  
+🔭 Cientista de Dados Jr   
 🌱 Estudando NLP e IA
 😄 Ela/Dela
 
