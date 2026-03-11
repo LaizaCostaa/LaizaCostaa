@@ -28,6 +28,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LaizaCostaa&theme=tokyo-night)
 
+
+## 🚀 Projetos em Destaque
+
 ### 📈 Análise de Série Temporal com Intervenção
 📌 Avaliação do impacto de uma intervenção (blog corporativo) na receita de uma empresa utilizando modelagem de séries temporais.
 
@@ -38,7 +41,7 @@
 **Técnicas utilizadas**
 - Modelos de séries temporais
 - Análise de intervenção
-- Análise estatística de impacto
+- Análise estatística
 
 🔗 https://github.com/LaizaCostaa/série-temporal-intervenção-blog-na-receita
 
