@@ -24,6 +24,3 @@
 ![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-1E88E5?style=for-the-badge)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaizaCostaa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaCostaa&layout=compact&theme=radical)
