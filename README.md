@@ -28,10 +28,12 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LaizaCostaa&theme=tokyo-night)
 
-## 🚀 Projetos em Destaque
-
 ### 📈 Análise de Série Temporal com Intervenção
 📌 Avaliação do impacto de uma intervenção (blog corporativo) na receita de uma empresa utilizando modelagem de séries temporais.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time%20Series-Statistical%20Modeling-blue)
+![Statistics](https://img.shields.io/badge/Statistics-Analysis-lightgrey)
 
 **Técnicas utilizadas**
 - Modelos de séries temporais
@@ -40,11 +42,15 @@
 
 🔗 https://github.com/LaizaCostaa/série-temporal-intervenção-blog-na-receita
 
-
 ---
 
 ### 🤖 Classificação de Tickets de Suporte (NLP vs LLM)
 📌 Projeto que compara duas abordagens para classificação automática de tickets de suporte ao cliente.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![LLM](https://img.shields.io/badge/LLM-AI-blue)
 
 **Abordagens comparadas**
 - NLP tradicional (TF-IDF + Machine Learning)
@@ -58,11 +64,14 @@
 
 🔗 https://github.com/LaizaCostaa/classificacao-tickets-suporte-pnl-llm
 
-
 ---
 
 ### 🧠 Gerador Automático de Documentação com IA
 📌 Sistema que gera documentação automaticamente a partir de código-fonte, utilizando IA.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-AI-blue)
+![Automation](https://img.shields.io/badge/Automation-Documentation-green)
 
 **Funcionalidades**
 - Análise estrutural do código
@@ -76,11 +85,14 @@
 
 🔗 https://github.com/LaizaCostaa/gerador_de_documentacao
 
-
 ---
 
 ### 🔎 Sistema de Correspondência de Currículos e Vagas
 📌 Sistema de matching entre currículos e requisitos de vagas utilizando técnicas de IA.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple)
+![Semantic Matching](https://img.shields.io/badge/Semantic%20Matching-AI-blue)
 
 **Funcionalidades**
 - Extração de informações de currículos
@@ -91,3 +103,5 @@
 - NLP
 - IA generativa
 - Similaridade semântica
+
+🔒 Projeto privado
