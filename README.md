@@ -30,4 +30,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaCostaa&layout=compact&theme=tokyonight)
 
-Isso vai gerar algo assim:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LaizaCostaa&theme=tokyo-night)
