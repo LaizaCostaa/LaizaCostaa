@@ -27,3 +27,69 @@
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LaizaCostaa&theme=tokyo-night)
+
+## 🚀 Projetos em Destaque
+
+### 📈 Análise de Série Temporal com Intervenção
+📌 Avaliação do impacto de uma intervenção (blog corporativo) na receita de uma empresa utilizando modelagem de séries temporais.
+
+**Técnicas utilizadas**
+- Modelos de séries temporais
+- Análise de intervenção
+- Análise estatística de impacto
+
+🔗 https://github.com/LaizaCostaa/série-temporal-intervenção-blog-na-receita
+
+
+---
+
+### 🤖 Classificação de Tickets de Suporte (NLP vs LLM)
+📌 Projeto que compara duas abordagens para classificação automática de tickets de suporte ao cliente.
+
+**Abordagens comparadas**
+- NLP tradicional (TF-IDF + Machine Learning)
+- Classificação baseada em LLM
+
+**Técnicas utilizadas**
+- NLP
+- Feature Engineering
+- Modelos de Machine Learning
+- Avaliação comparativa de modelos
+
+🔗 https://github.com/LaizaCostaa/classificacao-tickets-suporte-pnl-llm
+
+
+---
+
+### 🧠 Gerador Automático de Documentação com IA
+📌 Sistema que gera documentação automaticamente a partir de código-fonte, utilizando IA.
+
+**Funcionalidades**
+- Análise estrutural do código
+- Geração automática de documentação
+- Organização por tipos e públicos
+
+**Tecnologias**
+- Python
+- IA Generativa
+- Automação de documentação
+
+🔗 https://github.com/LaizaCostaa/gerador_de_documentacao
+
+
+---
+
+### 🔎 Sistema de Correspondência de Currículos e Vagas
+📌 Sistema de matching entre currículos e requisitos de vagas utilizando técnicas de IA.
+
+**Funcionalidades**
+- Extração de informações de currículos
+- Correspondência semântica com vagas
+- Ranking de candidatos
+
+**Técnicas utilizadas**
+- NLP
+- IA generativa
+- Similaridade semântica
+
+🔒 Projeto privado
