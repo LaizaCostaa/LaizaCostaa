@@ -93,3 +93,7 @@
 - Similaridade semântica
 
 🔒 Projeto privado
+
+![Python](https://img.shields.io/badge/Python-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-orange)
+![NLP](https://img.shields.io/badge/NLP-purple)
