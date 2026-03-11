@@ -44,7 +44,7 @@
 - Análise estatística
 
 🔗 https://github.com/LaizaCostaa/série-temporal-intervenção-blog-na-receita
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LaizaCostaa&repo=série-temporal-intervenção-blog-na-receita&theme=tokyonight)](https://github.com/LaizaCostaa/série-temporal-intervenção-blog-na-receita)
 ---
 
 ### 🤖 Classificação de Tickets de Suporte (NLP vs LLM)
@@ -66,6 +66,7 @@
 - Avaliação comparativa de modelos
 
 🔗 https://github.com/LaizaCostaa/classificacao-tickets-suporte-pnl-llm
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LaizaCostaa&repo=classificacao-tickets-suporte-pnl-llm&theme=tokyonight)](https://github.com/LaizaCostaa/classificacao-tickets-suporte-pnl-llm)
 
 ---
 
@@ -87,6 +88,7 @@
 - Automação de documentação
 
 🔗 https://github.com/LaizaCostaa/gerador_de_documentacao
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LaizaCostaa&repo=gerador_de_documentacao&theme=tokyonight)](https://github.com/LaizaCostaa/gerador_de_documentacao)
 
 ---
 
