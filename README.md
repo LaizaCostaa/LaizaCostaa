@@ -24,10 +24,6 @@
 ![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-1E88E5?style=for-the-badge)
 
-## 📊 GitHub Stats
 
-![Laiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaizaCostaa&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaCostaa&layout=compact&theme=tokyonight)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LaizaCostaa&theme=tokyo-night)
