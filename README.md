@@ -65,7 +65,7 @@
 - Modelos de Machine Learning
 - Avaliação comparativa de modelos
 
-🔗 Customer-support-ticket-classification-NLP-LLM
+🔗 https://github.com/LaizaCostaa/Customer-support-ticket-classification-NLP-LLM
 
 ---
 
