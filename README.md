@@ -43,7 +43,7 @@
 - Análise de intervenção
 - Análise estatística
 
-🔗 https://github.com/LaizaCostaa/série-temporal-intervenção-blog-na-receita
+🔗 https://github.com/LaizaCostaa/serie-temporal-intervencao-blog-na-receita
 
 ---
 
@@ -65,7 +65,7 @@
 - Modelos de Machine Learning
 - Avaliação comparativa de modelos
 
-🔗 https://github.com/LaizaCostaa/classificacao-tickets-suporte-pnl-llm
+🔗 Customer-support-ticket-classification-NLP-LLM
 
 ---
 
@@ -86,7 +86,7 @@
 - IA Generativa
 - Automação de documentação
 
-🔗 https://github.com/LaizaCostaa/gerador_de_documentacao
+🔗 https://github.com/LaizaCostaa/Documentatios_generator
 
 ---
 
@@ -107,4 +107,4 @@
 - IA generativa
 - Similaridade semântica
 
-🔒 Projeto privado
+https://github.com/LaizaCostaa/Job_recommendation_system
